@@ -52,6 +52,7 @@ $result = $stmt->get_result();
             font-size: 35px;
             margin-bottom: 20px;
         }
+
         .button {
             text-decoration: none;
             color: white;
@@ -62,6 +63,7 @@ $result = $stmt->get_result();
             display: inline-block;
             margin-top: 20px;
         }
+
         p {
             color: #464f41;
             font-size: 20px;
